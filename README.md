@@ -44,7 +44,7 @@
     https://pypi.mirrors.ustc.edu.cn/simple/
 
 #Ways of using
-  
+  You should give us the BV number of the video,
 #Test Sample
   
 #Quote
