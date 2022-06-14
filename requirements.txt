@@ -1,0 +1,9 @@
+moviepy==0.2.3.2
+requests==2.18.4
+
+imageio~=2.1.2
+urllib3~=1.22
+jieba~=0.42.1
+wordcloud~=1.8.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
