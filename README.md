@@ -3,7 +3,7 @@
 #Date 2022/5/14
 #language python
 #IDE pycharm
-#Interpreter 3.9.13
+#Interpreter python 3.9.13
 
 #Function
   In this repository,we will download the video, audio, comments, bullet chats in bilibili by the BV number of a specific video,
