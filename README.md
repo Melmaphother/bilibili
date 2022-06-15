@@ -1,19 +1,16 @@
 ## bilibili
-####Auther Melmaphother and Polonium
-####Date 2022/5/14
-####language python
-####IDE pycharm
-####Interpreter python 3.9.13
+#### Auther Melmaphother and Polonium
+#### Date 2022/5/14
+#### language python
+#### IDE pycharm
+#### Interpreter python 3.9.13
 
-## 概述 
 
-跨平台WEB前端开发框架，主要提供Web端SDK用于开发Web应用，服务器端SDK用于整合解决方案的服务器端实现
-
-##Function
+## Function
   In this repository, we will download the video, audio, comments, bullet chats in bilibili by BV numbers.Also, we integrate the video with the audio to create a complete video.To make a visualized graph that can take the place of concrete bullet chats , we create a wordcloud that reflect the frequency of them.
 
-##Environment
-  #Packages:
+## Environment
+  #### Packages:
     beautifulsoup4          4.11.1	
     bs4                     0.0.1	
     certifi                 2022.5.18.1	
@@ -42,14 +39,14 @@
     tqdm                    4.64.0	
     urllib3                 1.26.9	
     wordcloud               1.8.1	
-  #Repositories:
+  #### Repositories:
     https://pypi.python.org/simple
     https://pypi.mirrors.ustc.edu.cn/simple/
 
-##Ways of using
+## Ways of using
   You should give us the BV number of the video,
-##Test Sample
+## Test Sample
   
-##Quote
+## Quote
   
 
