@@ -10,9 +10,9 @@
 
 ##Environment
   #Packages:
-    beautifulsoup4	        4.11.1	
-    bs4                  	  0.0.1	
-    certifi	                2022.5.18.1	
+    beautifulsoup4          4.11.1	
+    bs4                     0.0.1	
+    certifi                 2022.5.18.1	
     charset-normalizer	    2.0.12	
     colorama	              0.4.4	
     cycler	                0.11.0	
