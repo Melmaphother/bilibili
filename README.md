@@ -1,15 +1,14 @@
-# bilibili
-#Auther Melmaphother and Polonium
-#Date 2022/5/14
-#language python
-#IDE pycharm
-#Interpreter python 3.9.13
+## bilibili
+####Auther Melmaphother and Polonium
+####Date 2022/5/14
+####language python
+####IDE pycharm
+####Interpreter python 3.9.13
 
-#Function
-  In this repository,we will download the video, audio, comments, bullet chats in bilibili by the BV number of a specific video,
-  also,we integrate the video with the audio, create a picture of wordcloud.
+##Function
+  In this repository, we will download the video, audio, comments, bullet chats in bilibili by BV numbers.Also, we integrate the video with the audio to create a complete video.To make a visualized graph that can take the place of comment list, we create a wordcloud that reflect 
 
-#Environment
+##Environment
   #Packages:
     beautifulsoup4	        4.11.1	
     bs4                  	  0.0.1	
@@ -43,10 +42,10 @@
     https://pypi.python.org/simple
     https://pypi.mirrors.ustc.edu.cn/simple/
 
-#Ways of using
+##Ways of using
   You should give us the BV number of the video,
-#Test Sample
+##Test Sample
   
-#Quote
+##Quote
   
 
