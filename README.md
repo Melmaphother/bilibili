@@ -6,7 +6,7 @@
 ####Interpreter python 3.9.13
 
 ##Function
-  In this repository, we will download the video, audio, comments, bullet chats in bilibili by BV numbers.Also, we integrate the video with the audio to create a complete video.To make a visualized graph that can take the place of comment list, we create a wordcloud that reflect 
+  In this repository, we will download the video, audio, comments, bullet chats in bilibili by BV numbers.Also, we integrate the video with the audio to create a complete video.To make a visualized graph that can take the place of concrete bullet chats , we create a wordcloud that reflect the frequency of them.
 
 ##Environment
   #Packages:
