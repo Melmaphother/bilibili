@@ -5,6 +5,10 @@
 ####IDE pycharm
 ####Interpreter python 3.9.13
 
+## 概述 
+
+跨平台WEB前端开发框架，主要提供Web端SDK用于开发Web应用，服务器端SDK用于整合解决方案的服务器端实现
+
 ##Function
   In this repository, we will download the video, audio, comments, bullet chats in bilibili by BV numbers.Also, we integrate the video with the audio to create a complete video.To make a visualized graph that can take the place of concrete bullet chats , we create a wordcloud that reflect the frequency of them.
 
